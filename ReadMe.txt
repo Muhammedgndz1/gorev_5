@@ -19,7 +19,7 @@ Kurulum
 Depoyu klonlayın:
 
 git clone https://github.com/Muhammedgndz1/odev_soru5.git
-cd turtlefollow
+cd turtlefollow_ws
 
 Workspace'i derleyin:
 
@@ -36,7 +36,7 @@ ros2 run turtlesim turtlesim_node
 
 Kaplumbağa oluşturma servisini çalıştırın:
 
-ros2 run turtlefollow turtle_creation_service
+ros2 run turtlefollow_ws turtle_creation_service
 
 Servisi çağırıp kaplumbağalar oluşturun:
 
