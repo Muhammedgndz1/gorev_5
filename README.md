@@ -1,4 +1,4 @@
-# mulakat_sorulari
+# Ödev Soruları 
 
 ilk 3 soru aynı python dosyası icerisinde bulunmaktadır. Kullanıcıdan veri almak ve ilk 3 sorunun çıktısını görmek için bir menü oluşturuldu. Soru sayısını girerek
 hangi soruyu çözebileceğinizi seçebilirsiniz. Diğer soruları da çözmek için kodu tekrar çalıştırınız.
