@@ -6,3 +6,4 @@ hangi soruyu çözebileceğinizi seçebilirsiniz. Diğer soruları da çözmek i
 4. soruda prompt ekranından girdileri girebilirsiniz. İster köşeli parantez kullanın ister kullanmayın, çalışacaktır. Farklı değerler girmek için kodu tekrar çalıştırınız.
 
  
+5. soru için ise read me dosyası ayrıdır. İçerisindeki adımları takip ederek çalıştırabilirsiniz.
