@@ -18,7 +18,7 @@ Kurulum
 
 Depoyu klonlayın:
 
-git clone https://github.com/yourusername/turtlefollow.git
+git clone https://github.com/Muhammedgndz1/odev_soru5.git
 cd turtlefollow
 
 Workspace'i derleyin:
