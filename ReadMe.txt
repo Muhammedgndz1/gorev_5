@@ -37,11 +37,12 @@ ros2 run turtle_teleop_key teleop_turtle_key --ros-args -r __node:=teleop_turtle
 
 Bu komutla, yalnızca turtle1'i kontrol edebilirsiniz. Aynı komutu diğer turtle'lar için de çalıştırabilirsiniz.
 
-Diğer seçenekler(b ve c) için Kurulum
+
+Diğer seçenekler(b ve c) için Kurulum:
 
 Depoyu klonlayın:
-
 git clone https://github.com/Muhammedgndz1/gorev_5.git
+
 cd turtlefollow_ws
 
 Workspace'i derleyin:
