@@ -1,0 +1,3 @@
+source;share/turtlefollow/hook/pythonpath.ps1
+source;share/turtlefollow/hook/pythonpath.dsv
+source;share/turtlefollow/hook/pythonpath.sh

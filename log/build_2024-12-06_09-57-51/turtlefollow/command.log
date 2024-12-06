@@ -1,0 +1,2 @@
+Invoking command in '/home/emred/turtlefollow_ws/build/turtlefollow': /usr/bin/cmake /home/emred/turtlefollow_ws/src/turtlefollow -DCMAKE_INSTALL_PREFIX=/home/emred/turtlefollow_ws/install/turtlefollow
+Invoked command in '/home/emred/turtlefollow_ws/build/turtlefollow' returned '1': /usr/bin/cmake /home/emred/turtlefollow_ws/src/turtlefollow -DCMAKE_INSTALL_PREFIX=/home/emred/turtlefollow_ws/install/turtlefollow

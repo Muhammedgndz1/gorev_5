@@ -1,0 +1,46 @@
+[0.717s] Invoking command in '/home/emred/turtlefollow_ws/src/turtlefollow': PYTHONPATH=/home/emred/turtlefollow_ws/build/turtlefollow/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlefollow build --build-base /home/emred/turtlefollow_ws/build/turtlefollow/build install --record /home/emred/turtlefollow_ws/build/turtlefollow/install.log --single-version-externally-managed install_data
+[0.942s] running egg_info
+[0.942s] creating ../../build/turtlefollow/turtlefollow.egg-info
+[0.943s] writing ../../build/turtlefollow/turtlefollow.egg-info/PKG-INFO
+[0.943s] writing dependency_links to ../../build/turtlefollow/turtlefollow.egg-info/dependency_links.txt
+[0.943s] writing entry points to ../../build/turtlefollow/turtlefollow.egg-info/entry_points.txt
+[0.943s] writing requirements to ../../build/turtlefollow/turtlefollow.egg-info/requires.txt
+[0.943s] writing top-level names to ../../build/turtlefollow/turtlefollow.egg-info/top_level.txt
+[0.943s] writing manifest file '../../build/turtlefollow/turtlefollow.egg-info/SOURCES.txt'
+[0.953s] reading manifest file '../../build/turtlefollow/turtlefollow.egg-info/SOURCES.txt'
+[0.953s] writing manifest file '../../build/turtlefollow/turtlefollow.egg-info/SOURCES.txt'
+[0.953s] running build
+[0.953s] running build_py
+[0.953s] creating /home/emred/turtlefollow_ws/build/turtlefollow/build
+[0.954s] creating /home/emred/turtlefollow_ws/build/turtlefollow/build/lib
+[0.954s] creating /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow
+[0.954s] copying turtlefollow/__init__.py -> /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow
+[0.954s] copying turtlefollow/turtle_follow_service.py -> /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow
+[0.954s] copying turtlefollow/turtle_creation_service.py -> /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow
+[0.954s] copying turtlefollow/create_turtles.py -> /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow
+[0.954s] running install
+[0.954s] running install_lib
+[0.955s] creating /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow
+[0.955s] copying /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow/__init__.py -> /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow
+[0.955s] copying /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow/turtle_follow_service.py -> /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow
+[0.955s] copying /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow/turtle_creation_service.py -> /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow
+[0.955s] copying /home/emred/turtlefollow_ws/build/turtlefollow/build/lib/turtlefollow/create_turtles.py -> /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow
+[0.955s] byte-compiling /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow/__init__.py to __init__.cpython-310.pyc
+[0.956s] byte-compiling /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow/turtle_follow_service.py to turtle_follow_service.cpython-310.pyc
+[0.956s] byte-compiling /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow/turtle_creation_service.py to turtle_creation_service.cpython-310.pyc
+[0.957s] byte-compiling /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow/create_turtles.py to create_turtles.cpython-310.pyc
+[0.957s] running install_data
+[0.957s] creating /home/emred/turtlefollow_ws/install/turtlefollow/share
+[0.957s] creating /home/emred/turtlefollow_ws/install/turtlefollow/share/ament_index
+[0.957s] creating /home/emred/turtlefollow_ws/install/turtlefollow/share/ament_index/resource_index
+[0.957s] creating /home/emred/turtlefollow_ws/install/turtlefollow/share/ament_index/resource_index/packages
+[0.957s] copying resource/turtlefollow -> /home/emred/turtlefollow_ws/install/turtlefollow/share/ament_index/resource_index/packages
+[0.957s] creating /home/emred/turtlefollow_ws/install/turtlefollow/share/turtlefollow
+[0.957s] copying package.xml -> /home/emred/turtlefollow_ws/install/turtlefollow/share/turtlefollow
+[0.957s] running install_egg_info
+[0.959s] Copying ../../build/turtlefollow/turtlefollow.egg-info to /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow-0.0.1-py3.10.egg-info
+[0.959s] running install_scripts
+[0.975s] Installing turtle_creation_service script to /home/emred/turtlefollow_ws/install/turtlefollow/lib/turtlefollow
+[0.976s] Installing turtle_follow_service script to /home/emred/turtlefollow_ws/install/turtlefollow/lib/turtlefollow
+[0.976s] writing list of installed files to '/home/emred/turtlefollow_ws/build/turtlefollow/install.log'
+[1.007s] Invoked command in '/home/emred/turtlefollow_ws/src/turtlefollow' returned '0': PYTHONPATH=/home/emred/turtlefollow_ws/build/turtlefollow/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlefollow build --build-base /home/emred/turtlefollow_ws/build/turtlefollow/build install --record /home/emred/turtlefollow_ws/build/turtlefollow/install.log --single-version-externally-managed install_data

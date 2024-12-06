@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtlefollow</name>
+  <version>0.0.1</version>
+  <description>Package for turtle creation and following in TurtleSim</description>
+
+  <license>Apache License 2.0</license>
+
+  <!-- Build dependencies -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>rosidl_default_generators</buildtool_depend>
+
+  <build_depend>rclcpp</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>nav_msgs</build_depend>
+  <build_depend>turtlesim</build_depend>
+  <build_depend>turtlefollow</build_depend>
+
+  <!-- Runtime dependencies -->
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>nav_msgs</exec_depend>
+  <exec_depend>turtlesim</exec_depend>
+  <exec_depend>turtlefollow</exec_depend>
+
+  <!-- Export settings -->
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+

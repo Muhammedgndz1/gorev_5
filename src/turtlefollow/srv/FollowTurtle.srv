@@ -1,0 +1,8 @@
+# Request: Takip edilecek turtle'ın ismi
+string name  # Takip edilmesi gereken turtle ismi
+
+---
+# Response: Takip işlemi sonucu
+bool success  # Başarı durumu
+string message  # Takip işlemi hakkında mesaj
+

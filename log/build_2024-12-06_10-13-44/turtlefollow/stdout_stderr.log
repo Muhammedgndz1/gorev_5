@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/turtlefollow/turtlefollow.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlefollow/turtlefollow.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlefollow/turtlefollow.egg-info/entry_points.txt
+writing requirements to ../../build/turtlefollow/turtlefollow.egg-info/requires.txt
+writing top-level names to ../../build/turtlefollow/turtlefollow.egg-info/top_level.txt
+reading manifest file '../../build/turtlefollow/turtlefollow.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlefollow/turtlefollow.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow-0.0.1-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtlefollow/turtlefollow.egg-info to /home/emred/turtlefollow_ws/install/turtlefollow/lib/python3.10/site-packages/turtlefollow-0.0.1-py3.10.egg-info
+running install_scripts
+Installing turtle_creation_service script to /home/emred/turtlefollow_ws/install/turtlefollow/lib/turtlefollow
+Installing turtle_follow_service script to /home/emred/turtlefollow_ws/install/turtlefollow/lib/turtlefollow
+writing list of installed files to '/home/emred/turtlefollow_ws/build/turtlefollow/install.log'

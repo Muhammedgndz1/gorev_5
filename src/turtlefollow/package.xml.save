@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtlefollow</name>
+  <version>0.0.1</version>
+  <description>The turtlefollow package</description>
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>Apache 2.0</license>
+
+  <depend>rclpy</depend>
+  <depend>turtlesim</depend>
+  <depend>rosidl_default_runtime</depend>
+  <build_depend>rosidl_default_generators</build_depend>
+  <exec_depend>ament_cmake</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+</package>

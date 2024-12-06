@@ -1,0 +1,8 @@
+# Request: Birkaç turtle oluşturmak için gereken parametre
+int32 count  # Kaç tane turtle oluşturulacağı
+
+---
+# Response: İşlem sonucunu döndüren parametre
+bool success  # Başarı durumu
+string message  # Başarı mesajı
+

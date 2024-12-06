@@ -1,0 +1,4 @@
+[console_scripts]
+turtle_creation_service = turtlefollow.turtle_creation_service:main
+turtle_follow_service = turtlefollow.turtle_follow_service:main
+

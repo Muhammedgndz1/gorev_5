@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtlefollow</name>
+  <version>0.0.0</version>
+  <description>Package for turtle following example</description>
+  <maintainer email="emred@example.com">Emred</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>geometry_msgs</depend>
+  <depend>nav_msgs</depend>
+
+  <build_depend>ament_cmake</build_depend>
+  <build_depend>rclcpp</build_depend>
+
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>nav_msgs</exec_depend>
+</package>
+
